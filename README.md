@@ -16,6 +16,7 @@ Maven 3.10
 ```bash
 git clone https://github.com/axibianCN/JWTDemo.git
 cd JWTDemo
+```
 
 ##说明
 1.启动JWTDemoApplication后，默认项目部署在本地服务器localhost:8080
